@@ -1,3 +1,6 @@
+# Public
+public
+
 # Godot-specific ignores
 .import/
 export.cfg
@@ -45,3 +48,4 @@ lib-cov
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+.vercel
